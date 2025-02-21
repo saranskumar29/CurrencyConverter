@@ -1,7 +1,7 @@
 ﻿# Clone the repository
-git clone https://github.com/your-repo/currency-converter-api.git
+git clone https://github.com/your-repo/CurrencyConverter.git
 
-cd currency-converter-api
+cd CurrencyConverter
 # Build the application
 mvn clean install
 # Run the application
